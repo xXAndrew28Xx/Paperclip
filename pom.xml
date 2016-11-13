@@ -48,7 +48,7 @@
         </profile>
     </profiles>
     <build>
-        <finalName>paperclip-${mcver}</finalName>
+        <finalName>paperclip</finalName>
         <plugins>
             <plugin>
                 <version>3.1</version>
