@@ -106,7 +106,8 @@
     <pluginRepositories>
         <pluginRepository>
             <id>demonwav-repo</id>
-            <url>https://nexus.demonwav.com/content/repositories/snapshots/</url>
+            <!-- Using my own server's web server -->
+            <url>http://tntwars.net/maven/</url>
         </pluginRepository>
     </pluginRepositories>
 
